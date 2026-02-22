@@ -1,4 +1,6 @@
-Hi, I'm Sanketh
+**Hi there 🙋‍♂️**
+
+I'm **Sanketh**
 
 AIML student focused on problem solving and building practical projects.
 
