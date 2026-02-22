@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Sanketh
 
-<!--
-**Sankethhhhhhh/Sankethhhhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIML student focused on problem solving and building practical projects.
 
-Here are some ideas to get you started:
+I work on Data Structures & Algorithms, Machine Learning, and backend development.
+Currently strengthening core CS fundamentals and building real-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Doing
+-Solving DSA problems consistently
+-Building ML-based projects
+-Learning system design basics
+-Improving code quality and structure
+
