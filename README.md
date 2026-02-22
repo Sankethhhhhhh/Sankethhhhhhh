@@ -13,3 +13,4 @@ What I'm Doing
 -Learning system design basics
 -Improving code quality and structure
 
+**Gym discipline translates into coding discipline**
